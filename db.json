@@ -1,0 +1,98 @@
+{
+  "api": [
+    {
+      "use": "打棒球",
+      "subject": "一般行政-行政管理-01人員維持費",
+      "purpose": "業務費-其他業務租金",
+      "time": 1649246383041,
+      "product": [
+        {
+          "name": "球棒",
+          "quantity": 15,
+          "amount": 300,
+          "subTotal": 4500
+        },
+        {
+          "name": "棒球",
+          "quantity": 200,
+          "amount": 30,
+          "subTotal": 6000
+        },
+        {
+          "name": "飲料",
+          "quantity": 20,
+          "amount": 30,
+          "subTotal": 900
+        }
+      ],
+      "total": 11400,
+      "id": 1
+    },
+    {
+      "use": "買電腦",
+      "subject": "一般行政-行政管理-01人員維持費",
+      "purpose": "業務費-稅捐及規費",
+      "time": 1649246471441,
+      "product": [
+        {
+          "name": "NAS",
+          "quantity": 1,
+          "amount": 31500,
+          "subTotal": 31500
+        },
+        {
+          "name": "硬碟",
+          "quantity": 5,
+          "amount": 7100,
+          "subTotal": 35500
+        },
+        {
+          "name": "安裝及施工",
+          "quantity": 15000,
+          "amount": 1,
+          "subTotal": 15000
+        }
+      ],
+      "total": 82000,
+      "id": 2
+    },
+    {
+      "use": "同事生日",
+      "subject": "一般行政-行政管理-01人員維持費",
+      "purpose": "業務費-資訊服務費",
+      "time": 1649248217567,
+      "product": [
+        {
+          "name": "蛋糕",
+          "quantity": 1,
+          "amount": 900,
+          "subTotal": 900
+        }
+      ],
+      "total": 900,
+      "id": 3
+    },
+    {
+      "use": "吃午餐",
+      "subject": "都市發展業務-都市計畫工作",
+      "purpose": "業務費-教育訓練費",
+      "time": 1649301530631,
+      "product": [
+        {
+          "name": "咖啡",
+          "quantity": 5,
+          "amount": 200,
+          "subTotal": 1000
+        },
+        {
+          "name": "果茶",
+          "quantity": 2,
+          "amount": 300,
+          "subTotal": 600
+        }
+      ],
+      "total": 1600,
+      "id": 4
+    }
+  ]
+}
